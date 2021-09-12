@@ -88,4 +88,7 @@ My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Set Up Your Programming LinkedIn Profile](https://javascript.plainenglish.io/how-to-set-up-your-programming-linkedin-profile-1c8322c24a72?source=rss-8ddf286623e4------2)
+- [My first two weeks on Medium.](https://medium.com/new-writers-welcome/my-first-two-weeks-on-medium-67238aa30762?source=rss-8ddf286623e4------2)
+- [7 Best Practices For Awesome Meta Titles](https://medium.com/@WesleySmits/7-best-practices-for-awesome-meta-titles-b66f390c7d80?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
