@@ -87,5 +87,5 @@ My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://medium.com/@WesleySmits)
 
 ## My 5 latest blog posts
-<!-- BLOG-LIST:START -->
-<!-- BLOG-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
