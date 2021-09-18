@@ -4,7 +4,11 @@
 
 ## Hi there 👋
 
-My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for digital marketing. Want to know more about me? Check out my [website](https://wesleysmits.com/)!
+My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for digital marketing.
+
+My web journey began all the way back in 2006 when I was 13-years old and started a small gig doing SEO work for websites. I’d optimise the metadata, the texts, and do some link building. This got me interested in websites and by 2007 I was building my own websites and experimenting with Affiliate Marketing and Google Adsense.
+
+Fast-forward to 2014 where I started my first job for an employer as a Front-end Developer at Divide. Here I spend a little under 5-years building E-commerce sites for Fashion Retail brands and thinking of ways to make their websites more user-friendly, rank higher and have better conversion rates. After working on dozens and dozens of projects, I wanted a chance of dedicating myself to a single project, and I started working at Nature.House in the summer of 2019 as a Senior Front-end Web Developer. I work with a remarkable team of people making the application a bit better every single day.
 
 ## My Skills
 ![](https://img.shields.io/badge/Code-JavaScript-blue)
@@ -92,3 +96,5 @@ My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for
 - [My first two weeks on Medium.](https://medium.com/new-writers-welcome/my-first-two-weeks-on-medium-67238aa30762?source=rss-8ddf286623e4------2)
 - [7 Best Practices For Awesome Meta Titles](https://medium.com/@WesleySmits/7-best-practices-for-awesome-meta-titles-b66f390c7d80?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
+
+Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
