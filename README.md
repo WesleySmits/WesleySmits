@@ -92,6 +92,7 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Create a Stellar GitHub Profile That Gets You Hired As A Web Developer](https://javascript.plainenglish.io/how-to-create-a-stellar-github-profile-that-gets-you-hired-as-a-web-developer-bf2264c7a48a?source=rss-8ddf286623e4------2)
 - [How to Set Up Your Programming LinkedIn Profile](https://javascript.plainenglish.io/how-to-set-up-your-programming-linkedin-profile-1c8322c24a72?source=rss-8ddf286623e4------2)
 - [My first two weeks on Medium.](https://medium.com/new-writers-welcome/my-first-two-weeks-on-medium-67238aa30762?source=rss-8ddf286623e4------2)
 - [7 Best Practices For Awesome Meta Titles](https://medium.com/@WesleySmits/7-best-practices-for-awesome-meta-titles-b66f390c7d80?source=rss-8ddf286623e4------2)
