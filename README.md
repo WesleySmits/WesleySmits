@@ -92,6 +92,7 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Improve Rendering Performance With The New CSS ‘Content-Visibility’ Property](https://javascript.plainenglish.io/improve-rendering-performance-with-the-new-css-content-visibility-property-7e0c9b425b58?source=rss-8ddf286623e4------2)
 - [How To Create a Stellar GitHub Profile That Gets You Hired As A Web Developer](https://javascript.plainenglish.io/how-to-create-a-stellar-github-profile-that-gets-you-hired-as-a-web-developer-bf2264c7a48a?source=rss-8ddf286623e4------2)
 - [How to Set Up Your Programming LinkedIn Profile](https://javascript.plainenglish.io/how-to-set-up-your-programming-linkedin-profile-1c8322c24a72?source=rss-8ddf286623e4------2)
 - [My first two weeks on Medium.](https://medium.com/new-writers-welcome/my-first-two-weeks-on-medium-67238aa30762?source=rss-8ddf286623e4------2)
