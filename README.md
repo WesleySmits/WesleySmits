@@ -92,11 +92,11 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Publish Your First NPM Package in Just 15 Minutes](https://medium.com/the-art-of-frontend/how-to-publish-your-first-npm-package-in-just-15-minutes-bb7ccb93ae78?source=rss-8ddf286623e4------2)
 - [About us](https://medium.com/the-art-of-frontend/about-us-b699df362fca?source=rss-8ddf286623e4------2)
 - [Write for us](https://medium.com/the-art-of-frontend/write-for-us-69624a52a80b?source=rss-8ddf286623e4------2)
 - [How to Build a Simple Web Calculator](https://javascript.plainenglish.io/how-to-build-a-simple-web-calculator-fa0ba9c2808c?source=rss-8ddf286623e4------2)
 - [A Beginner’s Guide to Creating a TypeScript Starter Project](https://javascript.plainenglish.io/a-beginners-guide-to-creating-a-typescript-starter-project-6129deeeb973?source=rss-8ddf286623e4------2)
-- [How far did I come in one month on Medium?](https://medium.com/new-writers-welcome/how-far-did-i-come-in-one-month-on-medium-9953f95ae3cb?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
