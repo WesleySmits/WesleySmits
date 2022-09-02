@@ -100,3 +100,5 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
+
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/WesleySmits/WesleySmits/blob/main/devcard.svg" width="400" alt="Wesley Smits's Dev Card"/></a>
