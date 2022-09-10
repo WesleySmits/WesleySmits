@@ -92,11 +92,11 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Use the FormData Object](https://javascript.plainenglish.io/how-to-use-the-formdata-object-430ba5f94629?source=rss-8ddf286623e4------2)
 - [Coming Back to Medium](https://medium.com/new-writers-welcome/coming-back-to-medium-660922a5cfae?source=rss-8ddf286623e4------2)
 - [How to Use The Native JavaScript Share API](https://javascript.plainenglish.io/how-to-use-the-native-javascript-share-api-6ec67399a9d3?source=rss-8ddf286623e4------2)
 - [Design Patterns in TypeScript: Observer Pattern](https://javascript.plainenglish.io/design-patterns-in-typescript-observer-pattern-cf0adb5e17be?source=rss-8ddf286623e4------2)
 - [Design Patterns in Typescript: Singleton Pattern](https://medium.com/the-art-of-frontend/design-patterns-in-typescript-singleton-pattern-2d869ca31b2?source=rss-8ddf286623e4------2)
-- [How to Make an Accessible Accordion Component](https://medium.com/the-art-of-frontend/how-to-make-an-accessible-accordion-component-18bb379eb1f3?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
