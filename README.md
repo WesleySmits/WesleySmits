@@ -92,11 +92,11 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [My October Writing Challenge](https://medium.com/new-writers-welcome/my-october-writing-challenge-aa479dbc21a5?source=rss-8ddf286623e4------2)
 - [My Medium Earnings in September](https://medium.com/new-writers-welcome/my-medium-earnings-in-september-4e8617df38e3?source=rss-8ddf286623e4------2)
 - [Better Unit Testing in Visual Studio Code with Jest](https://javascript.plainenglish.io/better-unit-testing-in-visual-studio-code-with-jest-6b2393401c33?source=rss-8ddf286623e4------2)
 - [Getting Started with the JavaScript URL Object](https://javascript.plainenglish.io/getting-started-with-the-javascript-url-object-e5de2ea67a92?source=rss-8ddf286623e4------2)
 - [7 Reasons Why TypeScript is Better Than Vanilla JavaScript](https://javascript.plainenglish.io/7-reasons-why-typescript-is-better-than-vanilla-javascript-f87528f216b6?source=rss-8ddf286623e4------2)
-- [My 7 Most-Used JavaScript Utility Functions](https://javascript.plainenglish.io/my-7-most-used-javascript-utility-functions-86afd61ad76c?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
