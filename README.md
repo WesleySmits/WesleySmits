@@ -92,7 +92,7 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
-- [10 Visual Studio Code Extensions You Don’t Need](https://javascript.plainenglish.io/10-visual-studio-code-extensions-you-dont-need-6f7904132a57?source=rss-8ddf286623e4------2)
+- [11 Visual Studio Code Extensions You Don’t Need](https://javascript.plainenglish.io/10-visual-studio-code-extensions-you-dont-need-6f7904132a57?source=rss-8ddf286623e4------2)
 - [How To Help Your Readers Find Related Content](https://medium.com/new-writers-welcome/how-to-help-your-readers-find-related-content-afdca5e68876?source=rss-8ddf286623e4------2)
 - [How to Create a CSS-Only Toggle Switch](https://blog.bitsrc.io/how-to-create-a-css-only-toggle-switch-adf2bb21346f?source=rss-8ddf286623e4------2)
 - [How to Automatically Run Commands in Visual Studio Code](https://javascript.plainenglish.io/how-to-automatically-run-commands-in-visual-studio-code-300f2e4f144c?source=rss-8ddf286623e4------2)
