@@ -92,11 +92,11 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Make Visual Studio Code Look Amazing](https://javascript.plainenglish.io/how-to-make-visual-studio-code-look-amazing-253d0b33b40d?source=rss-8ddf286623e4------2)
 - [How Much Did I Make From My First Viral Article On Medium?](https://medium.com/new-writers-welcome/how-much-did-i-make-from-my-first-viral-article-on-medium-6b6333f1cef4?source=rss-8ddf286623e4------2)
 - [What Is Passive Income and Why Is It So Popular These Days?](https://medium.com/illumination/what-is-passive-income-and-why-is-it-so-popular-these-days-3f78bb519b31?source=rss-8ddf286623e4------2)
 - [11 Visual Studio Code Extensions You Don’t Need](https://javascript.plainenglish.io/10-visual-studio-code-extensions-you-dont-need-6f7904132a57?source=rss-8ddf286623e4------2)
 - [How To Help Your Readers Find Related Content](https://medium.com/new-writers-welcome/how-to-help-your-readers-find-related-content-afdca5e68876?source=rss-8ddf286623e4------2)
-- [How to Create a CSS-Only Toggle Switch](https://blog.bitsrc.io/how-to-create-a-css-only-toggle-switch-adf2bb21346f?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
