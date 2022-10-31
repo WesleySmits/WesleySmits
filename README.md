@@ -92,11 +92,11 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Unexpected Story of My First Three-Figure Medium Article](https://medium.com/illumination/the-unexpected-story-of-my-first-three-figure-medium-article-60deac6e997b?source=rss-8ddf286623e4------2)
 - [How To Convert Text to Speech With JavaScript](https://blog.bitsrc.io/how-to-convert-text-to-speech-with-javascript-310d890bcbb9?source=rss-8ddf286623e4------2)
 - [How To Make Visual Studio Code Look Amazing](https://javascript.plainenglish.io/how-to-make-visual-studio-code-look-amazing-253d0b33b40d?source=rss-8ddf286623e4------2)
 - [How Much Did I Make From My First Viral Article On Medium?](https://medium.com/new-writers-welcome/how-much-did-i-make-from-my-first-viral-article-on-medium-6b6333f1cef4?source=rss-8ddf286623e4------2)
 - [What Is Passive Income and Why Is It So Popular These Days?](https://medium.com/illumination/what-is-passive-income-and-why-is-it-so-popular-these-days-3f78bb519b31?source=rss-8ddf286623e4------2)
-- [11 Visual Studio Code Extensions You Don’t Need](https://javascript.plainenglish.io/10-visual-studio-code-extensions-you-dont-need-6f7904132a57?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
 
 Want to know more about me? Check out my [website](https://wesleysmits.com/) or follow me on [Medium](https://medium.com/@WesleySmits) or [Twitter](https://twitter.com/iamwesleysmits)!
