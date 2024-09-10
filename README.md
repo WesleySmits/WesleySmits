@@ -93,8 +93,8 @@ Fast-forward to 2014 where I started my first job for an employer as a Front-end
 ## My 5 latest blog posts
 <!-- BLOG-POST-LIST:START -->
 - [How to Create Accessible Links](https://javascript.plainenglish.io/how-to-create-accessible-links-427f449e3384?source=rss-8ddf286623e4------2)
-- [7 Goals To Grow My Content Creation This Month](https://medium.com/@WesleySmits/7-goals-to-grow-my-content-creation-this-month-f87c2506a8d8?source=rss-8ddf286623e4------2)
-- [October Income Report: Huge increase in Medium Earnings](https://medium.com/@WesleySmits/october-income-report-huge-increase-in-medium-earnings-9d7906aa8a21?source=rss-8ddf286623e4------2)
+- [7 Goals To Grow My Content Creation This Month](https://medium.com/new-writers-welcome/7-goals-to-grow-my-content-creation-this-month-f87c2506a8d8?source=rss-8ddf286623e4------2)
+- [October Income Report: Huge increase in Medium Earnings](https://medium.com/new-writers-welcome/october-income-report-huge-increase-in-medium-earnings-9d7906aa8a21?source=rss-8ddf286623e4------2)
 - [9 Amazing Visual Studio Code Extensions To Skyrocket Productivity](https://javascript.plainenglish.io/9-amazing-visual-studio-code-extensions-to-skyrocket-productivity-f281f7827b53?source=rss-8ddf286623e4------2)
 - [The Unexpected Story of My First Three-Figure Medium Article](https://medium.com/illumination/the-unexpected-story-of-my-first-three-figure-medium-article-60deac6e997b?source=rss-8ddf286623e4------2)
 <!-- BLOG-POST-LIST:END -->
