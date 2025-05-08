@@ -4,11 +4,35 @@
 
 ## Hi there 👋
 
-My name is Wesley, I am a Senior Front-end Developer with a hidden side-love for digital marketing.
+I’m Wesley Smits — a senior front-end developer who builds fast, scalable websites and UIs that rank, convert, and last.
 
-My web journey began all the way back in 2006 when I was 13-years old and started a small gig doing SEO work for websites. I’d optimise the metadata, the texts, and do some link building. This got me interested in websites and by 2007 I was building my own websites and experimenting with Affiliate Marketing and Google Adsense.
+For over a decade, I’ve helped startups, agencies, and small businesses ship performance-first products using WordPress, TypeScript, Vue, React, and modern front-end architecture.
 
-Fast-forward to 2014 where I started my first job for an employer as a Front-end Developer at Divide. Here I spend a little under 5-years building E-commerce sites for Fashion Retail brands and thinking of ways to make their websites more user-friendly, rank higher and have better conversion rates. After working on dozens and dozens of projects, I wanted a chance of dedicating myself to a single project, and I started working at Nature.House in the summer of 2019 as a Senior Front-end Web Developer. I work with a remarkable team of people making the application a bit better every single day.
+While I’m well known for WordPress builds that don’t suck (SEO-ready, fast, and maintainable), I also work on complex stacks — from custom CMS integrations to refactoring legacy codebases into reusable component systems.
+
+💡 What I Bring to the Table:
+ • 🚀 Fast, SEO-optimized websites (WordPress + headless too)
+ • 🧱 Component-based architecture (Vue, React, Storybook)
+ • 🔍 Technical SEO & Core Web Vitals optimization
+ • 🛠️ Legacy code modernization & scalable UI systems
+ • 🧪 E2E testing setups (Playwright, Cypress, Jest)
+ • ♿ Accessibility & performance built-in from day one
+
+🤝 Who I Work With:
+ • Local businesses ready to level up from Wix to pro
+ • SEO consultants & designers who need clean execution
+ • Startups building MVPs that won’t fall apart in 3 months
+ • Agencies needing a flexible, async front-end partner
+
+I work async, communicate clearly, and think in systems — not quick fixes.
+Whether you need a full WordPress rebuild or a TypeScript dev who can wrangle chaos into structure, I can help.
+
+⸻
+
+### Open to collaborate? I’ve got freelance availability this month — let’s talk.
+
+⸻
+
 
 ## My Skills
 ![](https://img.shields.io/badge/Code-JavaScript-blue)
