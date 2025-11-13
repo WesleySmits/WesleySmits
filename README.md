@@ -1,22 +1,18 @@
 [![Wesley Smits - Github Banner](./assets/github-header.jpeg)](https://wesleysmits.com/)
 
-
-
 ## Hi there 👋
 
-I’m Wesley Smits — a senior front-end developer who builds fast, scalable websites and UIs that rank, convert, and last.
+I’m Wesley Smits — a **senior front-end developer** focused on fast, scalable, accessible websites and applications using **TypeScript, Vue/Nuxt, React/Next, and modern front-end architecture**.
 
-For over a decade, I’ve helped startups, agencies, and small businesses ship performance-first products using WordPress, TypeScript, Vue, React, and modern front-end architecture.
-
-While I’m well known for WordPress builds that don’t suck (SEO-ready, fast, and maintainable), I also work on complex stacks — from custom CMS integrations to refactoring legacy codebases into reusable component systems.
+I help startups, agencies, and small businesses ship **high-performance UIs**, refactor messy codebases, and build maintainable component systems that last.
 
 💡 What I Bring to the Table:
- • 🚀 Fast, SEO-optimized websites (WordPress + headless too)
- • 🧱 Component-based architecture (Vue, React, Storybook)
- • 🔍 Technical SEO & Core Web Vitals optimization
- • 🛠️ Legacy code modernization & scalable UI systems
- • 🧪 E2E testing setups (Playwright, Cypress, Jest)
- • ♿ Accessibility & performance built-in from day one
+- 🚀 Fast, SEO-friendly front-end (Core Web Vitals, Lighthouse, SSR/ISR)
+- 🧱 Component-driven architecture (Vue, Nuxt, React, Storybook)
+- 🔧 Refactoring legacy front-end into modern TypeScript systems
+- 🧪 Test setups: Playwright, Cypress, Jest
+- ♿ Accessibility-first UI engineering
+- 🏗️ WordPress & headless WordPress (modern, fast, maintainable)
 
 🤝 Who I Work With:
  • Local businesses ready to level up from Wix to pro
@@ -24,90 +20,51 @@ While I’m well known for WordPress builds that don’t suck (SEO-ready, fast, 
  • Startups building MVPs that won’t fall apart in 3 months
  • Agencies needing a flexible, async front-end partner
 
-I work async, communicate clearly, and think in systems — not quick fixes.
-Whether you need a full WordPress rebuild or a TypeScript dev who can wrangle chaos into structure, I can help.
-
 ⸻
 
 ### Open to collaborate? I’ve got freelance availability this month — let’s talk.
 
-⸻
+---
 
+## ⚡ Tech Stack
 
-## My Skills
-![](https://img.shields.io/badge/Code-JavaScript-blue)
-![](https://img.shields.io/badge/Code-TypeScript-blue)
-![](https://img.shields.io/badge/Marketing-SEO-brightgreen)
+### Languages
+![](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<details>
-<summary>More skills</summary>
-<br />
+### Frameworks & Libraries
+![](https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 
-### Code
-![](https://img.shields.io/badge/Code-HTML-blue)
-![](https://img.shields.io/badge/Code-JavaScript-blue)
-![](https://img.shields.io/badge/Code-TypeScript-blue)
-![](https://img.shields.io/badge/Code-PHP-blue)
-![](https://img.shields.io/badge/Code-SQL-blue)
-![](https://img.shields.io/badge/Code-CSS-blue)
-![](https://img.shields.io/badge/Code-PostCSS-blue)
-![](https://img.shields.io/badge/Code-SCSS-blue)
-![](https://img.shields.io/badge/Code-LESS-blue)
-![](https://img.shields.io/badge/Code-Swift-blue)
-![](https://img.shields.io/badge/Code-SwiftUI-blue)
-![](https://img.shields.io/badge/Code-CSharp-blue)
-![](https://img.shields.io/badge/Code-.NET-blue)
-
-### Frameworks
-![](https://img.shields.io/badge/Frameworks-Wordpress-orange)
-![](https://img.shields.io/badge/Frameworks-Symfony-orange)
-![](https://img.shields.io/badge/Frameworks-Magento-orange)
-![](https://img.shields.io/badge/Frameworks-Shopify-orange)
-
+### Tooling
+![](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
+![](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
 ### Testing
-![](https://img.shields.io/badge/Testing-Jest-green)
-![](https://img.shields.io/badge/Testing-Cypress-green)
-![](https://img.shields.io/badge/Testing-Mocha-green)
-![](https://img.shields.io/badge/Testing-PHPUnit-green)
+![](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=microsoft&logoColor=white)
+![](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)
+![](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)
 
-### Tools
-![](https://img.shields.io/badge/Tools-VSCode-red)
-![](https://img.shields.io/badge/Tools-WebPack-red)
-![](https://img.shields.io/badge/Tools-NPM-red)
-![](https://img.shields.io/badge/Tools-Yarn-red)
-![](https://img.shields.io/badge/Tools-Docker-red)
-![](https://img.shields.io/badge/Tools-GithubActions-red)
-![](https://img.shields.io/badge/Tools-GithubActions-red)
-![](https://img.shields.io/badge/Tools-GitLab-red)
-![](https://img.shields.io/badge/Tools-Jira-red)
-![](https://img.shields.io/badge/Tools-Figma-red)
-![](https://img.shields.io/badge/Tools-Sketch-red)
-![](https://img.shields.io/badge/Tools-AdobeXD-red)
+<details>
+<summary><strong>Other Experience</strong></summary>
+<br/>
 
-### Marketing
-![](https://img.shields.io/badge/Marketing-SEO-brightgreen)
-![](https://img.shields.io/badge/Marketing-SEA-brightgreen)
-![](https://img.shields.io/badge/Marketing-SMO-brightgreen)
-![](https://img.shields.io/badge/Marketing-GoogleAds-brightgreen)
-![](https://img.shields.io/badge/Marketing-FacebookAds-brightgreen)
-![](https://img.shields.io/badge/Marketing-PinterestAds-brightgreen)
-![](https://img.shields.io/badge/Marketing-LinkedInAds-brightgreen)
-![](https://img.shields.io/badge/Marketing-GoogleTagManager-brightgreen)
-![](https://img.shields.io/badge/Marketing-InfluencerMarketing-brightgreen)
-
-### Processes
-![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
-![](https://img.shields.io/badge/Processes-Agile-yellowgreen)
-![](https://img.shields.io/badge/Processes-Leadership-yellowgreen)
-![](https://img.shields.io/badge/Processes-LeadDevelopment-yellowgreen)
-![](https://img.shields.io/badge/Processes-Scrum-yellowgreen)
-
-### Other
-![](https://img.shields.io/badge/Other-WebPerformance-lightgrey)
-![](https://img.shields.io/badge/Other-WebAccessibility-lightgrey)
-![](https://img.shields.io/badge/Other-WPEngine-lightgrey)
+- PHP, SQL, Swift, C#, .NET  
+- Symfony, Magento, Shopify  
+- GTM, SEO, SEA, Google Ads  
+- Agile, Scrum, Project Leadership  
+- Figma, Sketch, Adobe XD  
+- Web performance & accessibility  
 </details>
+
+---
 
 ## Connect with me
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/iamwesleysmits)
